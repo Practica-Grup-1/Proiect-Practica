@@ -1,0 +1,89 @@
+C:\Users\Elitebook\source\repos\Proiect\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\Elitebook\source\repos\Proiect\Proiect\bin\Debug\Proiect.exe
+C:\Users\Elitebook\source\repos\Proiect\Proiect\bin\Debug\Proiect.pdb
+C:\Users\Elitebook\source\repos\Proiect\Proiect\obj\Debug\Proiect.csprojAssemblyReference.cache
+C:\Users\Elitebook\source\repos\Proiect\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+C:\Users\Elitebook\source\repos\Proiect\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+C:\Users\Elitebook\source\repos\Proiect\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\Elitebook\source\repos\Proiect\Proiect\obj\Debug\Proiect.exe
+C:\Users\Elitebook\source\repos\Proiect\Proiect\obj\Debug\Proiect.pdb
+C:\Users\Elitebook\source\repos\Proiect\Proiect\obj\Debug\Proiect.FormAngajat.resources
+C:\Users\Elitebook\source\repos\Proiect\Proiect\obj\Debug\Proiect.Forma2.resources
+C:\Users\Elitebook\source\repos\Proiect\Proiect\obj\Debug\Proiect.FormFluturas.resources
+C:\Users\Andreea\Desktop\Proiect\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\Andreea\Desktop\Proiect\Proiect\bin\Debug\Proiect.exe
+C:\Users\Andreea\Desktop\Proiect\Proiect\bin\Debug\Proiect.pdb
+C:\Users\Andreea\Desktop\Proiect\Proiect\obj\Debug\Proiect.csprojAssemblyReference.cache
+C:\Users\Andreea\Desktop\Proiect\Proiect\obj\Debug\Proiect.FormAngajat.resources
+C:\Users\Andreea\Desktop\Proiect\Proiect\obj\Debug\Proiect.Forma2.resources
+C:\Users\Andreea\Desktop\Proiect\Proiect\obj\Debug\Proiect.FormFluturas.resources
+C:\Users\Andreea\Desktop\Proiect\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+C:\Users\Andreea\Desktop\Proiect\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+C:\Users\Andreea\Desktop\Proiect\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\Andreea\Desktop\Proiect\Proiect\obj\Debug\Proiect.exe
+C:\Users\Andreea\Desktop\Proiect\Proiect\obj\Debug\Proiect.pdb
+C:\Users\Danut\Desktop\Proiect\Proiect\obj\Debug\Proiect.csprojAssemblyReference.cache
+C:\Users\Danut\Desktop\Proiect\Proiect\obj\Debug\Proiect.FormAngajat.resources
+C:\Users\Danut\Desktop\Proiect\Proiect\obj\Debug\Proiect.Forma2.resources
+C:\Users\Danut\Desktop\Proiect\Proiect\obj\Debug\Proiect.FormFluturas.resources
+C:\Users\Danut\Desktop\Proiect\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+C:\Users\Danut\Desktop\Proiect\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+C:\Users\Danut\Desktop\Proiect\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\Danut\Desktop\Proiect\Proiect\obj\Debug\Proiect.exe
+C:\Users\Danut\Desktop\Proiect\Proiect\obj\Debug\Proiect.pdb
+C:\Users\Danut\Desktop\Proiect\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\Danut\Desktop\Proiect\Proiect\bin\Debug\Proiect.exe
+C:\Users\Danut\Desktop\Proiect\Proiect\bin\Debug\Proiect.pdb
+C:\Users\Danut\Desktop\Proiect\Proiect\obj\Debug\Proiect.Form2.resources
+C:\Users\Andreea\Desktop\Proiect Practica\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\Andreea\Desktop\Proiect Practica\Proiect\bin\Debug\Proiect.exe
+C:\Users\Andreea\Desktop\Proiect Practica\Proiect\bin\Debug\Proiect.pdb
+C:\Users\Andreea\Desktop\Proiect Practica\Proiect\obj\Debug\Proiect.csprojAssemblyReference.cache
+C:\Users\Andreea\Desktop\Proiect Practica\Proiect\obj\Debug\Proiect.FormAngajat.resources
+C:\Users\Andreea\Desktop\Proiect Practica\Proiect\obj\Debug\Proiect.Form2.resources
+C:\Users\Andreea\Desktop\Proiect Practica\Proiect\obj\Debug\Proiect.Forma2.resources
+C:\Users\Andreea\Desktop\Proiect Practica\Proiect\obj\Debug\Proiect.FormFluturas.resources
+C:\Users\Andreea\Desktop\Proiect Practica\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+C:\Users\Andreea\Desktop\Proiect Practica\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+C:\Users\Andreea\Desktop\Proiect Practica\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\Andreea\Desktop\Proiect Practica\Proiect\obj\Debug\Proiect.exe
+C:\Users\Andreea\Desktop\Proiect Practica\Proiect\obj\Debug\Proiect.pdb
+D:\Doubles\Downloads\Proiect Practicafinal\Proiect Practica\Proiect\bin\Debug\Proiect.exe.config
+D:\Doubles\Downloads\Proiect Practicafinal\Proiect Practica\Proiect\bin\Debug\Proiect.exe
+D:\Doubles\Downloads\Proiect Practicafinal\Proiect Practica\Proiect\bin\Debug\Proiect.pdb
+D:\Doubles\Downloads\Proiect Practicafinal\Proiect Practica\Proiect\obj\Debug\Proiect.csprojAssemblyReference.cache
+D:\Doubles\Downloads\Proiect Practicafinal\Proiect Practica\Proiect\obj\Debug\Proiect.FormAngajat.resources
+D:\Doubles\Downloads\Proiect Practicafinal\Proiect Practica\Proiect\obj\Debug\Proiect.Form2.resources
+D:\Doubles\Downloads\Proiect Practicafinal\Proiect Practica\Proiect\obj\Debug\Proiect.Forma2.resources
+D:\Doubles\Downloads\Proiect Practicafinal\Proiect Practica\Proiect\obj\Debug\Proiect.FormFluturas.resources
+D:\Doubles\Downloads\Proiect Practicafinal\Proiect Practica\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+D:\Doubles\Downloads\Proiect Practicafinal\Proiect Practica\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+D:\Doubles\Downloads\Proiect Practicafinal\Proiect Practica\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+D:\Doubles\Downloads\Proiect Practicafinal\Proiect Practica\Proiect\obj\Debug\Proiect.exe
+D:\Doubles\Downloads\Proiect Practicafinal\Proiect Practica\Proiect\obj\Debug\Proiect.pdb
+C:\Users\Danut\source\repos\Proiect Practicafinal\Proiect Practica\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\Danut\source\repos\Proiect Practicafinal\Proiect Practica\Proiect\bin\Debug\Proiect.exe
+C:\Users\Danut\source\repos\Proiect Practicafinal\Proiect Practica\Proiect\bin\Debug\Proiect.pdb
+C:\Users\Danut\source\repos\Proiect Practicafinal\Proiect Practica\Proiect\obj\Debug\Proiect.csprojAssemblyReference.cache
+C:\Users\Danut\source\repos\Proiect Practicafinal\Proiect Practica\Proiect\obj\Debug\Proiect.FormAngajat.resources
+C:\Users\Danut\source\repos\Proiect Practicafinal\Proiect Practica\Proiect\obj\Debug\Proiect.Form2.resources
+C:\Users\Danut\source\repos\Proiect Practicafinal\Proiect Practica\Proiect\obj\Debug\Proiect.Forma2.resources
+C:\Users\Danut\source\repos\Proiect Practicafinal\Proiect Practica\Proiect\obj\Debug\Proiect.FormFluturas.resources
+C:\Users\Danut\source\repos\Proiect Practicafinal\Proiect Practica\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+C:\Users\Danut\source\repos\Proiect Practicafinal\Proiect Practica\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+C:\Users\Danut\source\repos\Proiect Practicafinal\Proiect Practica\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\Danut\source\repos\Proiect Practicafinal\Proiect Practica\Proiect\obj\Debug\Proiect.exe
+C:\Users\Danut\source\repos\Proiect Practicafinal\Proiect Practica\Proiect\obj\Debug\Proiect.pdb
+D:\Doubles\Downloads\Proiect Practicafinal\Proiect Practicafinal\Proiect Practica\Proiect\bin\Debug\Proiect.exe.config
+D:\Doubles\Downloads\Proiect Practicafinal\Proiect Practicafinal\Proiect Practica\Proiect\bin\Debug\Proiect.exe
+D:\Doubles\Downloads\Proiect Practicafinal\Proiect Practicafinal\Proiect Practica\Proiect\bin\Debug\Proiect.pdb
+D:\Doubles\Downloads\Proiect Practicafinal\Proiect Practicafinal\Proiect Practica\Proiect\obj\Debug\Proiect.csprojAssemblyReference.cache
+D:\Doubles\Downloads\Proiect Practicafinal\Proiect Practicafinal\Proiect Practica\Proiect\obj\Debug\Proiect.FormAngajat.resources
+D:\Doubles\Downloads\Proiect Practicafinal\Proiect Practicafinal\Proiect Practica\Proiect\obj\Debug\Proiect.Form2.resources
+D:\Doubles\Downloads\Proiect Practicafinal\Proiect Practicafinal\Proiect Practica\Proiect\obj\Debug\Proiect.Forma2.resources
+D:\Doubles\Downloads\Proiect Practicafinal\Proiect Practicafinal\Proiect Practica\Proiect\obj\Debug\Proiect.FormFluturas.resources
+D:\Doubles\Downloads\Proiect Practicafinal\Proiect Practicafinal\Proiect Practica\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+D:\Doubles\Downloads\Proiect Practicafinal\Proiect Practicafinal\Proiect Practica\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+D:\Doubles\Downloads\Proiect Practicafinal\Proiect Practicafinal\Proiect Practica\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+D:\Doubles\Downloads\Proiect Practicafinal\Proiect Practicafinal\Proiect Practica\Proiect\obj\Debug\Proiect.exe
+D:\Doubles\Downloads\Proiect Practicafinal\Proiect Practicafinal\Proiect Practica\Proiect\obj\Debug\Proiect.pdb
